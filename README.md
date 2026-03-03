@@ -1,45 +1,64 @@
-# Hi 👋 I'm Abdullah Hussein Sobhi  
+<div align="center">
 
-🎓 Computer Science Student at Benha University  
-💻 Passionate about Data Analysis & Artificial Intelligence  
-🚀 Turning Data into Decisions  
+  <h1>Hi 👋 I'm Abdullah Hussein Sobhi</h1>
+  <h3>Computer Science Student | Data Analysis Enthusiast | Future AI Specialist</h3>
 
----
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71"
+       alt="Data Analysis"
+       width="600"
+       style="border-radius: 12px; margin-top: 15px;" />
 
-## 👨‍💻 About Me
+</div>
 
-I am a Computer Science student with a strong foundation in **C++ and Object-Oriented Programming**, currently expanding my skills in **Java and Data Analysis**.  
+<hr>
 
-I enjoy solving problems, analyzing data, and building practical projects that transform raw information into meaningful insights.  
+<h2>👨‍💻 About Me</h2>
 
-My long-term goal is to specialize in **Data Science and AI**, combining programming skills with analytical thinking to solve real-world problems.
+<p>
+I am a Computer Science student at Benha University with a strong passion for 
+<b>Data Analysis</b> and <b>Artificial Intelligence</b>.  
+I have a solid foundation in <b>C++</b> and <b>Object-Oriented Programming</b>, 
+and I am currently expanding my skills in <b>Java</b> and data analytics tools.
+</p>
 
----
+<hr>
 
-## 🛠️ Technical Skills
+<h2>🛠️ Technical Skills</h2>
 
-- 💻 Programming: C++, Java  
-- 🧠 Concepts: OOP, Data Structures & Algorithms  
-- 🗄️ Databases: SQL  
-- 📊 Data Analysis: Excel, Data Cleaning, Data Visualization  
-- 🔧 Tools: Git, GitHub  
+<table>
+  <tr>
+    <td><b>💻 Programming</b></td>
+    <td>C++, Java</td>
+  </tr>
+  <tr>
+    <td><b>🧠 Concepts</b></td>
+    <td>OOP, Data Structures & Algorithms</td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td>SQL</td>
+  </tr>
+  <tr>
+    <td><b>📊 Data Analysis</b></td>
+    <td>Excel, Data Cleaning, Data Visualization</td>
+  </tr>
+  <tr>
+    <td><b>🔧 Tools</b></td>
+    <td>Git, GitHub</td>
+  </tr>
+</table>
 
----
+<hr>
 
-## 📈 Currently Learning
+<h2>🎯 Career Goal</h2>
 
-- Advanced Java  
-- Data Analysis Projects  
-- Problem Solving & Algorithms  
-- Preparing for Data Science Path  
+<p>
+To specialize in <b>Data Science & AI</b> and build intelligent systems 
+that turn data into smart decisions.
+</p>
 
----
+<hr>
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: (https://www.linkedin.com/in/abdullah-nasser~/)
-- 📧 Email: abdullahhussein13579@gmial.com
-
----
-
-⭐ Always learning. Always building.
+<div align="center">
+  <h3>⭐ Always Learning | Always Building</h3>
+</div>
