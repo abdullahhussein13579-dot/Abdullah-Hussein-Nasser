@@ -37,8 +37,8 @@ My long-term goal is to specialize in **Data Science and AI**, combining program
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link here)
-- 📧 Email: (Add your email here)
+- 💼 LinkedIn: (https://www.linkedin.com/in/abdullah-nasser~/)
+- 📧 Email: abdullahhussein13579@gmial.com
 
 ---
 
